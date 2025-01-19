@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1121</width>
+    <height>776</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1121</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <action name="actionGrade">
+   <property name="text">
+    <string>年级设置</string>
+   </property>
+  </action>
+  <action name="actionClass">
+   <property name="text">
+    <string>班级设置</string>
+   </property>
+  </action>
+  <action name="actionExamKind">
+   <property name="text">
+    <string>考试类别</string>
+   </property>
+  </action>
+  <action name="actionSubject">
+   <property name="text">
+    <string>考试科目</string>
+   </property>
+  </action>
+  <action name="actionStudent">
+   <property name="text">
+    <string>学生信息管理</string>
+   </property>
+  </action>
+  <action name="actionResult">
+   <property name="text">
+    <string>学生成绩管理</string>
+   </property>
+  </action>
+  <action name="actionStudentInfo">
+   <property name="text">
+    <string>学生信息查询</string>
+   </property>
+  </action>
+  <action name="actionResultInfo">
+   <property name="text">
+    <string>学生成绩查询</string>
+   </property>
+  </action>
+  <action name="actionUser">
+   <property name="text">
+    <string>用户维护</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

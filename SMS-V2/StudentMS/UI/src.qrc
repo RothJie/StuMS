@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="src">
+    <file>icon/HealthiconsRegisterBookNegative (2).png</file>
+    <file>icon/HugeiconsMaximize03.png</file>
+    <file>icon/HugeiconsMinimize04.png</file>
+    <file>icon/HugeiconsUserAccount.png</file>
+    <file>icon/HumbleiconsArrowGoBack.png</file>
+    <file>icon/IonChevronForwardCircleSharp.png</file>
+    <file>icon/loginIcon.png</file>
+    <file>icon/RiLockPasswordFill.png</file>
+    <file>icon/StashSignin.png</file>
+    <file>icon/TablerProgressX (1).png</file>
+    <file>icon/WeuiBack2Filled.png</file>
+  </qresource>
+</RCC>
